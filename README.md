@@ -12,8 +12,10 @@ Inspiration par le prof où l'interacteur visite une station spatiale.
 ![gymnasia](https://github.com/73Gabriel/Test-test-party/assets/113635462/3b06e476-7edb-4933-a2b8-451678066fe2)
 Voici un projet que je suis allé voir avec l'école qui était intéressant.L'expérience de l'utilisateur se faisait  sur une chaise et j'étais un spectateur de l'univers qui changeait devant moi.
 https://www.onf.ca/interactif/gymnasia_fr
+https://www.youtube.com/watch?v=lk3D1XcYelk&ab_channel=TheVRShop
 
 
 ## Matériel requis
 -oculus rift
 -kinect
+-caméra pour la kinect
