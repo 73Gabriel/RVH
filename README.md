@@ -19,7 +19,6 @@ https://www.youtube.com/watch?v=lk3D1XcYelk&ab_channel=TheVRShop
 Je pense que ce projet serait intéressant pour les gens qui n'ont pas la possibilité de visiter un endroit quelconque avec la progression de la technologie VR c'est un bon moyen touristique pour attirer des clients aka utilisateurs  dans le confort de leurs maisons.
 ![vr home](https://github.com/73Gabriel/Test-test-party/assets/113635462/994d9022-4f7b-4871-ade6-f000231427f5)
 
-https://www.youtube.com/watch?v=l7DGxnDfTL8&t=75s&ab_channel=TravelWorldVR
 
 ## Matériel requis
 * oculus rift
