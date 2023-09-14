@@ -17,7 +17,8 @@ https://www.youtube.com/watch?v=lk3D1XcYelk&ab_channel=TheVRShop
 
 ## Pour quel raison je pense que ce projet serait intéréssant
 Je pense que ce projet serait intéressant pour les gens qui n'ont pas la possibilité de visiter un endroit quelconque avec la progression de la technologie VR c'est un bon moyen touristique pour attirer des clients aka utilisateurs  dans le confort de leurs maisons.
-![vr home](https://github.com/73Gabriel/Test-test-party/assets/113635462/48b69b1a-fcad-43c2-b545-15caca1431a1)
+![vr home](https://github.com/73Gabriel/Test-test-party/assets/113635462/48b69b1a-fcad-43c2-b545-15caca1431a1
+https://www.youtube.com/watch?v=l7DGxnDfTL8&t=75s&ab_channel=TravelWorldVR
 
 ## Matériel requis
 * oculus rift
