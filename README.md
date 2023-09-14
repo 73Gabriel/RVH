@@ -15,11 +15,13 @@ Voici un projet que je suis allé voir avec l'école qui était intéressant.L'e
 https://www.onf.ca/interactif/gymnasia_fr
 https://www.youtube.com/watch?v=lk3D1XcYelk&ab_channel=TheVRShop
 
+## Pour quel raison je pense que ce projet serait intéréssant
+Je pense que ce projet serait intéressant pour les gens qui n'ont pas la possibilité de visiter un endroit quelconque avec la progression de la technologie VR c'est un bon moyen touristique pour attirer des clients aka utilisateurs  dans le confort de leurs maisons.
+![vr home](https://github.com/73Gabriel/Test-test-party/assets/113635462/48b69b1a-fcad-43c2-b545-15caca1431a1)
 
 ## Matériel requis
->
 * oculus rift
 * kinect
 * caméra pour la kinect
 * leap motion
->
+
