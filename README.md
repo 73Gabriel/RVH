@@ -21,13 +21,12 @@ Je pense que ce projet serait intéressant pour les gens qui n'ont pas la possib
 https://www.youtube.com/watch?v=l7DGxnDfTL8&t=75s&ab_channel=TravelWorldVR
 ## Étapes pour la réalisation du projet
 * L'une des multiples fonctionnalités du casque vr  est qu'il permet aux utilisateurs d'explorer et d'interagir avec un environnement a 360 degrés permettant d'offrir une expérience immersive pour atteindre le but final du projet il faudrait créer des images panoramiques a 360 degrés à l'aide d'une caméra spécialisée pour ce cela ou bien avec le téléphone comme montré dans cette vidéo.:https://www.youtube.com/watch?v=5MZ3jPzn0Dg&ab_channel=Technopujades
-* Par la suite, faire une conversion des images en format vr et l'intégrer dans l'application et l'environnement vr au choix
+* Par la suite, faire une conversion des images en format vr et l'intégrer dans l'application et l'environnement vr au choix.https://www.meta.com/fr-ca/help/quest/articles/headsets-and-accessories/using-your-headset/transfer-files-from-quest-to-quest-2/
 * D'autres aspects tels que le son peut être même le toucher peuvent être créés et intégrer dans le casque vr pour augmenter la sensation de l'immersion
 
 
 ## Matériel requis
 * Casque Vr
-* caméra 360 degres
-* leap motion
+* caméra 360 degres ou téléphone
 * Application Reaper
 
