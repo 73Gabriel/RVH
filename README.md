@@ -31,8 +31,11 @@ De plus, il est aussi possible de pouvoir modéliser un univers réaliste pour l
 * caméra 360 degres ou téléphone
 * Application Reaper
 * Salle avec un sofa et télécommande
- ## Mon défi principal
+ ## Mes défis
 * Me refamiliariser avec les applications
+* Autonomie du projet sans ma présence
+* Nombre limité de casque VR
+* Penser à faire un partage d'écran pour que les utilisateurs puissent quand même regarder le projet sans y participer 
 
   
 
