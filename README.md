@@ -25,11 +25,14 @@ https://www.youtube.com/watch?v=l7DGxnDfTL8&t=75s&ab_channel=TravelWorldVR
 * D'autres aspects tels que le son peut être même le toucher peuvent être créés et intégrer dans le casque vr pour augmenter la sensation de l'immersion https://www.youtube.com/watch?v=EnK5pJbeWw0&ab_channel=RenoMellow
 ## De plus...
 De plus, il est aussi possible de pouvoir modéliser un univers réaliste pour l'utilisateur, mais avec le temps de réalisation et la précision requise ça n'arriverait pas au but ultime d'immersion du projet
+
 ## Matériel requis
 * Casque Vr
 * caméra 360 degres ou téléphone
 * Application Reaper
 * Salle avec un sofa et télécommande
+ ## Mon défi principal
+* Me refamiliariser avec les applications
 
   
 
