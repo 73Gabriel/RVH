@@ -20,9 +20,9 @@ Je pense que ce projet serait intéressant pour les gens qui n'ont pas la possib
 ![vr home](https://github.com/73Gabriel/Test-test-party/assets/113635462/994d9022-4f7b-4871-ade6-f000231427f5)
 https://www.youtube.com/watch?v=l7DGxnDfTL8&t=75s&ab_channel=TravelWorldVR
 ## Étapes pour la réalisation du projet
-*L'une des multiples fonctionnalités du casque vr  est qu'il permet aux utilisateurs d'explorer et d'interagir avec un environnement a 360 degrés permettant d'offrir une expérience immersive pour atteindre le but final du projet il faudrait créer des images panoramiques a 360 degrés à l'aide d'une caméra spécialisée pour ce cela ou bien avec le téléphone comme montré dans cette vidéo.:https://www.youtube.com/watch?v=5MZ3jPzn0Dg&ab_channel=Technopujades
-*Par la suite, faire une conversion des images en format vr et l'intégrer dans l'application et l'environnement vr au choix
-*D'autres aspects tels que le son peut être même le toucher peuvent être créés et intégrer dans le casque vr pour augmenter la sensation de l'immersion
+* L'une des multiples fonctionnalités du casque vr  est qu'il permet aux utilisateurs d'explorer et d'interagir avec un environnement a 360 degrés permettant d'offrir une expérience immersive pour atteindre le but final du projet il faudrait créer des images panoramiques a 360 degrés à l'aide d'une caméra spécialisée pour ce cela ou bien avec le téléphone comme montré dans cette vidéo.:https://www.youtube.com/watch?v=5MZ3jPzn0Dg&ab_channel=Technopujades
+* Par la suite, faire une conversion des images en format vr et l'intégrer dans l'application et l'environnement vr au choix
+* D'autres aspects tels que le son peut être même le toucher peuvent être créés et intégrer dans le casque vr pour augmenter la sensation de l'immersion
 
 
 ## Matériel requis
