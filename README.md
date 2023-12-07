@@ -1,7 +1,11 @@
+## Idée générale du projet
+L'intention du projet est que l'intéracteur puisse pouvoir voir un paysage réaliste de l'extérieur dans le confort de sa maison ou de la pièce où l'immersion se produit.L'utilisateur pourra voir plusieurs scènes montrant plusieurs localisations réelles où il y aura la possibilité de pouvoir regarder avec la technologie 360 degrès.Avec les sons  ,photos  vidéos  et des localisations utilisées, le participant peut se sentir immergé par le paysage.Ce projet serait intéressant pour les personnes qui n'ont pas la possibilité de visiter un endroit quelconque avec la progression de la technologie VR c'est un bon moyen touristique pour attirer des clients aka utilisateurs  dans le confort de leurs maisons. Dans la pièce il y aura une chaise pivotante assistant le participant a la fonction des images/vidéos 360 degrès une table avec les casque vr et un chargeur pour chargé les casques.
+
 ## Inspirations 
 
+
 https://theinfiniteexperience.world/en/montreal#experience
-Mon idée de projet serait de créer un projet virtuel où l'utilisateur peut se déplacer et visiter une scène précise.Le son aiderait à l'immersion de l'utilisateur. et il y aurait une télécommande et un sofa  qui donne la possibilité de changer de dimension ou d'univers pour expérimenter un autre environnement.
+
 
 
 
@@ -15,8 +19,6 @@ Voici un projet que je suis allé voir avec l'école qui était intéressant.L'e
 https://www.onf.ca/interactif/gymnasia_fr
 https://www.youtube.com/watch?v=lk3D1XcYelk&ab_channel=TheVRShop
 
-## Pour quel raison je pense que ce projet serait intéréssant
-Je pense que ce projet serait intéressant pour les gens qui n'ont pas la possibilité de visiter un endroit quelconque avec la progression de la technologie VR c'est un bon moyen touristique pour attirer des clients aka utilisateurs  dans le confort de leurs maisons.
 ![vr home](https://github.com/73Gabriel/Test-test-party/assets/113635462/994d9022-4f7b-4871-ade6-f000231427f5)
 https://www.youtube.com/watch?v=l7DGxnDfTL8&t=75s&ab_channel=TravelWorldVR
 ## Étapes pour la réalisation du projet
